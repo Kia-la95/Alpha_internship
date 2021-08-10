@@ -1,0 +1,6 @@
+{
+    "name": "kia/examples",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
